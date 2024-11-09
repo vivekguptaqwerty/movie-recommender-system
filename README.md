@@ -1,4 +1,5 @@
 **Movie Recommender System**
+
 The Movie Recommender System is a web-based application that uses machine learning techniques to provide personalized movie recommendations to users. Built using Python and Streamlit, the system leverages content-based filtering and collaborative filtering to suggest movies based on user preferences, historical ratings, and movie attributes such as genre, cast, and plot.
 
 The application is deployed on Heroku, enabling easy access via a browser. The system provides an intuitive interface where users can receive movie suggestions tailored to their tastes, enhancing the movie-watching experience.
